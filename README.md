@@ -2,6 +2,12 @@
 
 **Version 1.0.0 · Hardware-validated · October 18, 2026**
 
+## Hardware gameplay video
+
+https://github.com/user-attachments/assets/b447e007-63fe-4d26-8362-673c10aa0532
+
+*ESP32-P4 hardware demonstration — FIRST BETA recording. This video documents an earlier development build, not the final v1.0.0 launch menu. The v1.0.0 release includes the validated DIRECT GAME and FULL STORY paths described below.*
+
 An independent **Makerstown** project bringing the 1993 Amiga platform game *Superfrog* to an ESP32-P4 arcade setup through a specialized runtime. The project features a Makerstown graphical boot menu, menu music, and two independent entry points:
 
 - **DIRECT GAME** — boots directly from game Disc 1 without processing the Story Disc first.
