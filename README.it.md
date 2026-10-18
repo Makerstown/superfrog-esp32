@@ -2,6 +2,12 @@
 
 **Versione 1.0.0 · Validata su hardware · 18 ottobre 2026**
 
+## Video dimostrativo su ESP32-P4 reale
+
+https://github.com/user-attachments/assets/b447e007-63fe-4d26-8362-673c10aa0532
+
+*Dimostrazione hardware ESP32-P4 — filmato storico FIRST BETA. Il video mostra una build di sviluppo precedente, non il menu definitivo della v1.0.0. La release stabile v1.0.0 comprende entrambe le modalità DIRECT GAME e FULL STORY descritte in questa pagina.*
+
 Progetto Makerstown indipendente per il porting tecnico del gioco Amiga *Superfrog* (1993) su cabinet arcade **ESP32-P4**, con menu grafico e musica di avvio.
 
 Due modalità operative, entrambe verificate dall'autore su hardware reale:
