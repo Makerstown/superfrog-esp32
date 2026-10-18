@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="800" height="480" role="img" aria-label="Makerstown Superfrog Arcade Edition menu illustration">
+<rect width="400" height="240" fill="#001018"/>
+<rect x="8" y="9" width="384" height="223" fill="none" stroke="#25b9cc" stroke-width="1"/>
+<path d="M8 9H77 M323 9H392 M8 231H90 M311 231H392" stroke="#4de4e6" stroke-width="3"/>
+<g opacity=".34" fill="#42c7d0"><circle cx="28" cy="17" r=".7"/><circle cx="196" cy="13" r=".7"/><circle cx="349" cy="27" r=".7"/><circle cx="89" cy="70" r=".7"/><circle cx="323" cy="77" r=".7"/></g>
+<g fill="#3fff92"><rect x="33" y="27" width="6" height="20"/><rect x="53" y="27" width="6" height="20"/><rect x="39" y="32" width="14" height="12"/><rect x="30" y="31" width="6" height="8"/><rect x="56" y="31" width="6" height="8"/><rect x="42" y="32" width="3" height="3" fill="#001018"/><rect x="48" y="32" width="3" height="3" fill="#001018"/></g>
+<text x="200" y="51" text-anchor="middle" fill="#53f5d7" font-family="monospace" font-size="28" letter-spacing="1">MAKERSTOWN</text>
+<text x="200" y="73" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="19" letter-spacing="1">ARCADE EDITION</text>
+<text x="200" y="97" text-anchor="middle" fill="#68eeb9" font-family="monospace" font-size="10">SUPERFROG / AMIGA PORTING TOOL</text>
+<g stroke="#1b6574" stroke-width=".6" opacity=".55"><path d="M0 108H400 M0 112H400 M0 117H400 M0 122H400 M0 127H400 M0 131H400 M0 136H400"/></g>
+<rect x="32" y="124" width="336" height="32" fill="#074452" stroke="#40eeee" stroke-width="2"/>
+<rect x="42" y="136" width="7" height="8" fill="#ffc45a"/>
+<text x="58" y="146" font-family="monospace" font-size="17" fill="#88dded">01</text>
+<text x="98" y="146" font-family="monospace" font-size="18" fill="#ffffff">DIRECT GAME</text>
+<path d="M336 134l7 6-7 6" fill="none" stroke="#ffc45a" stroke-width="2"/>
+<rect x="32" y="166" width="336" height="32" fill="#031a27" stroke="#315a6f" stroke-width="2"/>
+<text x="58" y="188" font-family="monospace" font-size="17" fill="#6d9cb4">02</text>
+<text x="98" y="188" font-family="monospace" font-size="18" fill="#9ac4d6">FULL STORY</text>
+<text x="200" y="222" text-anchor="middle" font-family="monospace" font-size="10" fill="#f2f5ff">SU GIU SCEGLI / A START CONFERMA</text>
+</svg>

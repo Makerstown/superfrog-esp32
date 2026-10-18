@@ -1,0 +1,23 @@
+# Never commit game media, derived loaders, firmware images or local secrets.
+*.adf
+*.ipf
+*.rom
+*.bin
+*.iso
+*.hdf
+*.raw
+*.mp3
+*.wav
+*.elf
+*.hex
+*.uf2
+*.o
+*.a
+*.zip
+*.7z
+*.rar
+*.key
+.env
+.env.*
+__pycache__/
+.DS_Store
